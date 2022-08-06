@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script+Swash+Caps&family=Poppins:wght@300&display=swap');
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    font-family: 'Poppins', sans-serif;
+}
+.h-30{
+    max-height: 30rem;
+} 
+
+
+.line{
+    border-left: 2px solid black;
+  height: 500px;
+  position: absolute;
+  left: 50%;
+  margin-left: -3px;
+  top: 0;
+}
+
+#map {
+    height: 400px;
+    /* The height is 400 pixels */
+    width: 100%;
+    /* The width is the width of the web page */
+  }
+  
